@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # Created by: Venika Sem
-# Created in Dec 2022
-# This program uses a 2d array
+# Created on: Dec 2022
+# This program adds all numbers in a 2d array
 
 import random
 
